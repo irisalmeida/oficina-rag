@@ -1,4 +1,4 @@
-# Leitor Inteligente de PDFs com IA Multimodal
+# Leitor Inteligente de PDFs
 
 > Código desenvolvido para explicar RAG para alunos da oficina **"Fluxos Inteligentes: Construindo Sistemas Multiagentes com LangChain e LangGraph"** no evento **Elas\@Conectam**.
 
