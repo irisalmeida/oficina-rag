@@ -1,11 +1,10 @@
-# oficina-rag
 
-Código desenvolvido para explicar RAG para alunos da oficina "Fluxos Inteligentes: Construindo Sistemas Multiagentes com LangChain e LangGraph" para o evento Elas@Conectam
 
 
 # Leitor Inteligente de PDFs com IA Multimodal
 
 Este projeto implementa um pipeline RAG (Retrieval-Augmented Generation) multimodal capaz de responder perguntas sobre o conteúdo de documentos PDF, combinando extração de texto, descrição automática de imagens e busca semântica.
+Código desenvolvido para explicar RAG para alunos da oficina "Fluxos Inteligentes: Construindo Sistemas Multiagentes com LangChain e LangGraph" para o evento Elas@Conectam
 
 
 ## 🔍 Como Funciona (Visão Geral)
