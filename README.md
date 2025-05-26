@@ -1,7 +1,6 @@
 # oficina-rag
 
-
-Link para conferir: https://colab.research.google.com/drive/1REGTuT7RgwDj882sVgmoQRlQVAmd-7H_?usp=sharing
+Código desenvolvido para explicar RAG para alunos da oficina "Fluxos Inteligentes: Construindo Sistemas Multiagentes com LangChain e LangGraph" para o evento Elas@Conectam
 
 
 # Leitor Inteligente de PDFs com IA Multimodal
